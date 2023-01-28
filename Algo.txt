@@ -1,0 +1,4 @@
+Step 1: Choose Pizza Restaraunt
+Step 2: Select Pizza
+Step 3: Choose Delivery or Carry Out
+Step 4: Finalize and pay for order
