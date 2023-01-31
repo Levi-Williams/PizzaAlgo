@@ -4,3 +4,6 @@ Step 3: Choose Delivery or Carry Out
 Step 4: Finalize and pay for order
 I am writing new stuff on test branch;
 I am writing even more stuff on test branch;
+Lets add some stuff
+Okay now stuff is added
+Adding even more stuff;
